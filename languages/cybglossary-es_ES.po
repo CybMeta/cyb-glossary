@@ -1,0 +1,62 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: CYB Glossary en Español\n"
+"POT-Creation-Date: 2014-07-08 11:14+0100\n"
+"PO-Revision-Date: 2014-07-08 11:26+0100\n"
+"Last-Translator: Juan Padial <juanpadialmolina@gmail.com>\n"
+"Language-Team: \n"
+"Language: es_ES\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.6.6\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: ../cyb-glossary.php:24
+msgid "Terms"
+msgstr "Términos"
+
+#: ../cyb-glossary.php:25
+msgid "Term"
+msgstr "Término"
+
+#: ../cyb-glossary.php:26
+msgid "Add New Term"
+msgstr "Añadir nuevo Término"
+
+#: ../cyb-glossary.php:27
+msgid "New Term"
+msgstr "Nuevo Término"
+
+#: ../cyb-glossary.php:28
+msgid "Edit Term"
+msgstr "Editar Término"
+
+#: ../cyb-glossary.php:29
+msgid "View Term"
+msgstr "Ver Término"
+
+#: ../cyb-glossary.php:30
+msgid "All Term"
+msgstr "Todos los Términos"
+
+#: ../cyb-glossary.php:31
+msgid "Search Terms"
+msgstr "Buscar Términos"
+
+#: ../cyb-glossary.php:32
+msgid "No terms found."
+msgstr "No se encontró ningún Término"
+
+#: ../cyb-glossary.php:33
+msgid "No terms found in Trash."
+msgstr "No hay Términos en la papelera"
+
+#: ../cyb-glossary.php:39
+msgid "terms"
+msgstr "terminos"
+
+#: ../cyb-glossary.php:50
+msgid "glossary"
+msgstr "glosario"
